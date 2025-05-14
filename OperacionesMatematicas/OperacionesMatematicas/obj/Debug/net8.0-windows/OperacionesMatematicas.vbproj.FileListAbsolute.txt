@@ -1,0 +1,19 @@
+C:\Users\allan\Documents\GoldParser\OperacionesMatematicasVB\OperacionesMatematicas\OperacionesMatematicas\bin\Debug\net8.0-windows\OperacionesMatematicas.exe
+C:\Users\allan\Documents\GoldParser\OperacionesMatematicasVB\OperacionesMatematicas\OperacionesMatematicas\bin\Debug\net8.0-windows\OperacionesMatematicas.deps.json
+C:\Users\allan\Documents\GoldParser\OperacionesMatematicasVB\OperacionesMatematicas\OperacionesMatematicas\bin\Debug\net8.0-windows\OperacionesMatematicas.runtimeconfig.json
+C:\Users\allan\Documents\GoldParser\OperacionesMatematicasVB\OperacionesMatematicas\OperacionesMatematicas\bin\Debug\net8.0-windows\OperacionesMatematicas.dll
+C:\Users\allan\Documents\GoldParser\OperacionesMatematicasVB\OperacionesMatematicas\OperacionesMatematicas\bin\Debug\net8.0-windows\OperacionesMatematicas.pdb
+C:\Users\allan\Documents\GoldParser\OperacionesMatematicasVB\OperacionesMatematicas\OperacionesMatematicas\bin\Debug\net8.0-windows\GOLD Engine.dll
+C:\Users\allan\Documents\GoldParser\OperacionesMatematicasVB\OperacionesMatematicas\OperacionesMatematicas\obj\Debug\net8.0-windows\OperacionesMatematicas.vbproj.AssemblyReference.cache
+C:\Users\allan\Documents\GoldParser\OperacionesMatematicasVB\OperacionesMatematicas\OperacionesMatematicas\obj\Debug\net8.0-windows\OperacionesMatematicas.Form1.resources
+C:\Users\allan\Documents\GoldParser\OperacionesMatematicasVB\OperacionesMatematicas\OperacionesMatematicas\obj\Debug\net8.0-windows\OperacionesMatematicas.vbproj.GenerateResource.cache
+C:\Users\allan\Documents\GoldParser\OperacionesMatematicasVB\OperacionesMatematicas\OperacionesMatematicas\obj\Debug\net8.0-windows\OperacionesMatematicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allan\Documents\GoldParser\OperacionesMatematicasVB\OperacionesMatematicas\OperacionesMatematicas\obj\Debug\net8.0-windows\OperacionesMatematicas.AssemblyInfoInputs.cache
+C:\Users\allan\Documents\GoldParser\OperacionesMatematicasVB\OperacionesMatematicas\OperacionesMatematicas\obj\Debug\net8.0-windows\OperacionesMatematicas.AssemblyInfo.vb
+C:\Users\allan\Documents\GoldParser\OperacionesMatematicasVB\OperacionesMatematicas\OperacionesMatematicas\obj\Debug\net8.0-windows\OperacionesMatematicas.vbproj.CoreCompileInputs.cache
+C:\Users\allan\Documents\GoldParser\OperacionesMatematicasVB\OperacionesMatematicas\OperacionesMatematicas\obj\Debug\net8.0-windows\Operacio.DA8409F9.Up2Date
+C:\Users\allan\Documents\GoldParser\OperacionesMatematicasVB\OperacionesMatematicas\OperacionesMatematicas\obj\Debug\net8.0-windows\OperacionesMatematicas.dll
+C:\Users\allan\Documents\GoldParser\OperacionesMatematicasVB\OperacionesMatematicas\OperacionesMatematicas\obj\Debug\net8.0-windows\refint\OperacionesMatematicas.dll
+C:\Users\allan\Documents\GoldParser\OperacionesMatematicasVB\OperacionesMatematicas\OperacionesMatematicas\obj\Debug\net8.0-windows\OperacionesMatematicas.pdb
+C:\Users\allan\Documents\GoldParser\OperacionesMatematicasVB\OperacionesMatematicas\OperacionesMatematicas\obj\Debug\net8.0-windows\OperacionesMatematicas.genruntimeconfig.cache
+C:\Users\allan\Documents\GoldParser\OperacionesMatematicasVB\OperacionesMatematicas\OperacionesMatematicas\obj\Debug\net8.0-windows\ref\OperacionesMatematicas.dll
